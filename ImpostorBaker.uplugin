@@ -17,6 +17,10 @@
 		{                              
 		"Name": "BlueprintMaterialTextureNodes",    
 		"Enabled": true                
-		}                              
+		},
+		{
+		"Name": "ProceduralMeshComponent",
+		"Enabled": true 
+		}		
 	]                    
 }
